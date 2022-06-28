@@ -9,6 +9,6 @@ You'll only need to have a Flow wallet to mint NFTs. You can get a flow wallet b
 ### **Questions?**
 Hit me up [kharioki](https://kharioki.com) or on [Twitter](https://twitter.com/kharioki)
 
-### Finished product...
+### Finished product...[here](https://gear-head-nfts.vercel.app/)
 
 ![Screenshot 2022-06-28 at 17 35 53](https://user-images.githubusercontent.com/22290070/176209735-baa23b2f-3b29-4b8c-834c-3f7de13b7231.png)
